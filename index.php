@@ -8,4 +8,4 @@
 	header('Location: '.$uri.'/dashboard/');
 	exit;
 ?>
-//hello this the index file
+//hello this the index file.....................
